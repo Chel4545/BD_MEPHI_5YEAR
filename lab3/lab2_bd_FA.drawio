@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Страница-1" id="Ijy-qn9DKHUqbiwENSuW">
-    <mxGraphModel dx="605" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -944,7 +944,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfYJYa05B8X_xCFS1wTU-236" parent="FfYJYa05B8X_xCFS1wTU-234" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=0;shadow=1;" value="id_трудового_договора&amp;nbsp;&amp;nbsp;(int)" vertex="1">
+        <mxCell id="FfYJYa05B8X_xCFS1wTU-236" parent="FfYJYa05B8X_xCFS1wTU-234" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=0;shadow=1;" value="&lt;span style=&quot;text-decoration: underline;&quot;&gt;id_трудового_договора&amp;nbsp;&lt;/span&gt;&amp;nbsp;(int)" vertex="1">
           <mxGeometry height="30" width="223" x="40" as="geometry">
             <mxRectangle height="30" width="223" as="alternateBounds" />
           </mxGeometry>
